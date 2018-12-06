@@ -1,0 +1,11 @@
+/Users/gerwinjonker/Projects/RESTclientCs/bin/Debug/netcoreapp2.1/RESTclientCs.deps.json
+/Users/gerwinjonker/Projects/RESTclientCs/bin/Debug/netcoreapp2.1/RESTclientCs.runtimeconfig.json
+/Users/gerwinjonker/Projects/RESTclientCs/bin/Debug/netcoreapp2.1/RESTclientCs.runtimeconfig.dev.json
+/Users/gerwinjonker/Projects/RESTclientCs/bin/Debug/netcoreapp2.1/RESTclientCs.dll
+/Users/gerwinjonker/Projects/RESTclientCs/bin/Debug/netcoreapp2.1/RESTclientCs.pdb
+/Users/gerwinjonker/Projects/RESTclientCs/obj/Debug/netcoreapp2.1/RESTclientCs.csprojAssemblyReference.cache
+/Users/gerwinjonker/Projects/RESTclientCs/obj/Debug/netcoreapp2.1/RESTclientCs.csproj.CoreCompileInputs.cache
+/Users/gerwinjonker/Projects/RESTclientCs/obj/Debug/netcoreapp2.1/RESTclientCs.AssemblyInfoInputs.cache
+/Users/gerwinjonker/Projects/RESTclientCs/obj/Debug/netcoreapp2.1/RESTclientCs.AssemblyInfo.cs
+/Users/gerwinjonker/Projects/RESTclientCs/obj/Debug/netcoreapp2.1/RESTclientCs.dll
+/Users/gerwinjonker/Projects/RESTclientCs/obj/Debug/netcoreapp2.1/RESTclientCs.pdb
